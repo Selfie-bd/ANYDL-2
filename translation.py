@@ -8,8 +8,7 @@ JOIN : https://t.me/groupdcbots \nFor the List of Telegram Bots
     IFLONG_FILE_NAME = " Only 64 characters can be named . "
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>Preminum plans available in this bot </b> ₹5 for 29days || ₹10 for 48days || Best Plans ever 99 for 1year 
-Ask him to Get Premium Membership @dcbotsa"
+    UPGRADE_TEXT = "<b>Preminum plans available in this bot </b> ₹5 for 29days || ₹10 for 48days || Best Plans ever 99 for 1year || Ask him to Get Premium Membership @dcbotsa"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>File size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
